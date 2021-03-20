@@ -1,6 +1,4 @@
 using CatPlanarGraphs
 using Test
 
-@testset "CatPlanarGraphs.jl" begin
-    # Write your tests here.
-end
+include("planar_graph.jl")
