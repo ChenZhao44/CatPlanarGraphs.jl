@@ -3,6 +3,10 @@ uuid = "76f4a0b6-674c-4c0d-b480-30ca5fbb436d"
 authors = ["Chen Zhao <zhaochen17@mails.ucas.ac.cn> and contributors"]
 version = "0.1.0"
 
+[deps]
+Catlab = "134e5e36-593f-5add-ad60-77f754baafbe"
+CombinatorialSpaces = "b1c52339-7909-45ad-8b6a-6e388f7c67f2"
+
 [compat]
 julia = "1.5"
 
