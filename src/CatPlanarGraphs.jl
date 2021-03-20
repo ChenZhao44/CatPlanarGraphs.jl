@@ -1,5 +1,5 @@
 module CatPlanarGraphs
 
-# Write your package code here.
+include("planar_graph.jl")
 
 end
